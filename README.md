@@ -1,4 +1,4 @@
-# COVID-Vaccine-map
+# COVID19-Vaccine-map
 
 ## 1. 목적
 
