@@ -10,6 +10,8 @@
 
 > [백신 맵](https://covid19vaccinekorea.neocities.org/)
 
+공공데이터 api와 카카오맵 api를 사용하여 제작함.
+
 <br>
 
 ## 3. 사용법
